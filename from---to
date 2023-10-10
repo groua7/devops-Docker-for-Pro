@@ -1,0 +1,2 @@
+from Dockerfile to Docker image,
+then from Docker image to Docker container
